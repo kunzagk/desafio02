@@ -32,7 +32,7 @@ function Formulario() {
 
     return (
         <Container>
-            <Row className="justify-content-md-center">
+            <Row className="justify-content-md-center ">
                 <Col md="auto">
                     <h2 className="text-center">Crea una cuenta</h2>
                     <div className="d-flex justify-content-center">

@@ -7,7 +7,7 @@ function SocialButton() {
         container: {
             display: 'flex',
             justifyContent: 'space-between',
-            width: '100px', 
+            width: '100px',
             margin: '20px auto',
         },
         icon: {
