@@ -12,6 +12,10 @@ function SocialButton() {
         },
         icon: {
             cursor: 'pointer',
+            borderRadius: '50%',
+            backgroundColor: 'white',
+            padding: '5px',
+            border: '2px solid black',
         },
     }
 
